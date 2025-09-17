@@ -19,6 +19,7 @@ ____________
 - Open Settings via the "gear" icon on top of the Application.
 - Select the dongle on top of the Settings window ( tab two times if no other device is paired )
   Select "keep screen on" to avoid that tha Application goes to sleep ( consumes more energy ).
+  Select "LG" battery type at the bottom for a Kangoo 33 kW  ( AESC is default for a Kangoo with a 22 kw battery ) 
 - The Application should now connect to the dongle , and after a few seconds , data should appear.
 - Detailled data about the tractionbattery is displayed after a Tab on the battery picture 
   of the first view. Swipe between the three different views.
