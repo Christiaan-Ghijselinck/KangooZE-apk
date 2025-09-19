@@ -12,6 +12,9 @@ Go to http://mycloudarchive.atwebpages.com/KangooZE/ for more information and/or
 
 
 
+
+
+
 Instructions:
 
 - "Pair" the dongle via Bluetooth Settings on the Smartphone.
@@ -22,6 +25,8 @@ Instructions:
 - The Application should now connect to the dongle, and after a few seconds, data should appear.
 - Detailled data about the tractionbattery is displayed after a tap on the battery picture 
   of the first view. Swipe between the three different views.
+
+
 
 
 Notes:
