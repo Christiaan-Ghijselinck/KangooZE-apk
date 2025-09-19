@@ -13,7 +13,7 @@ Go to http://mycloudarchive.atwebpages.com/KangooZE/ for more information and/or
 
 
 Instructions:
-____________
+============
 
 - "Pair" the dongle via Bluetooth Settings on the Smartphone.
 - Open Settings via the "gear" icon on top of the Application.
@@ -26,7 +26,7 @@ ____________
 
 
 Notes:
-_____
+=====
 
 
 The application was developed with Android Studio end tested using the KONNWEI KW902 and the Vgate iCar Pro 2S dongles on a Samsung Smartphone Galaxy S5 neo.  The application has not been tested on a Tablet. 
