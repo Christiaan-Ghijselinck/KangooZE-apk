@@ -28,5 +28,5 @@ Go to http://mycloudarchive.atwebpages.com/KangooZE/ for more information and/or
 
 The application was developed with Android Studio end tested using the KONNWEI KW902 and the Vgate iCar Pro 2S dongles on a Samsung Smartphone Galaxy S5 neo.  The application has not been tested on a Tablet. 
 
-Depending on the Android Version , one should use KangooZE.apk or KangooZE-b.apk.  The **KangooZE.apk** installs on Smartphones with Android Version 6 to up to inclusive Version 14. The **KangooZE-b.apk** installs on Smartphones with Android Version 7 and higher ( inclusive Version 15 ). The version number used by the Smartphone can be found within "About" via "Settings". See also https://apilevels.com/
+Depending on the Android Version , one should use KangooZE.apk or KangooZE-b.apk.  The **KangooZE.apk** installs on Smartphones with Android Version 6 to up to inclusive Version 14. The **KangooZE-b.apk** installs on Smartphones with Android Version 7 and higher ( inclusive Version 15 ). The version number used by the Smartphone can be found within "About" via "Settings". See also https://apilevels.com/ or https://web.archive.org/web/20251004161259/https://apilevels.com/
   
