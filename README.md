@@ -18,7 +18,7 @@ Go to http://mycloudarchive.atwebpages.com/KangooZE/ for more information and/or
 - Open Settings via the "gear" icon on top of the Application.
 - Select the dongle on top of the Settings window ( tap two times if no other device is paired ). 
   Select "keep screen on" to avoid that the Application goes to sleep ( consumes more energy ). 
-  Select "LG" battery type at the bottom for a Kangoo 33 kW  ( AESC is default for a Kangoo with a 22 kw battery ). 
+  Select "LG" battery type at the bottom for a Kangoo 33 kW  ( AESC is default for a Kangoo with a 22 kW battery ). 
 - The Application should now connect to the dongle, and after a few seconds, data should appear.
 - Detailled data about the tractionbattery is displayed after a tap on the battery picture 
   of the first view. Swipe between the three different views.
@@ -28,5 +28,5 @@ Go to http://mycloudarchive.atwebpages.com/KangooZE/ for more information and/or
 
 The application was developed with Android Studio end tested using the KONNWEI KW902 and the Vgate iCar Pro 2S dongles on a Samsung Smartphone Galaxy S5 neo.  The application has not been tested on a Tablet. 
 
-Depending on the Android Version , one should use KangooZE.apk , KangooZE-b.apk or KangooZE-c.apk.  The **KangooZE.apk** installs on Smartphones with Android Version 6 to up to inclusive Version 14. The **KangooZE-b.apk** installs on Smartphones with Android Version 7 and higher ( inclusive Version 15 ). The **KangooZE-c.apk** installs on Smartphones with Android Version 16 and without a warning ( tested ) and on all lower numbered versions ( vers. 6 , 11 and 15 were tested ). The version number used by the Smartphone can be found within "About" via "Settings". See also https://apilevels.com/ or https://web.archive.org/web/20251004161259/https://apilevels.com/
+Depending on the Android Version , one should use KangooZE.a.apk , KangooZE-b.apk or KangooZE-c.apk.  The **KangooZE.a.apk** installs on Smartphones with Android Version 6 to up to inclusive Version 14. The **KangooZE-b.apk** installs on Smartphones with Android Version 7 and higher ( inclusive Version 15 ). The **KangooZE-c.apk** installs on Smartphones with Android Version 16 and without a warning about obsolete version ( tested ) and on all lower numbered versions ( vers. 6 , 11 and 15 were tested ). The version number used by the Smartphone can be found within "About" via "Settings". See also https://web.archive.org/web/20251004161259/https://apilevels.com/ or https://apilevels.com/ if available.
   
