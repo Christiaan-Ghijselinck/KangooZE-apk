@@ -29,5 +29,5 @@ Go to http://mycloudarchive.atwebpages.com/KangooZE/ for more information and/or
 The application was developed with Android Studio and tested using the KONNWEI KW902 and the Vgate iCar Pro 2S dongles on a Samsung Smartphone Galaxy S5 neo.  The application has been tested on other devices at https://developer.samsung.com/remotetestlab/devices .
 
 The **KangooZE-4.0.4.apk** installs on Smartphones with Android Version 6 to up to inclusive Version 16 and without a warning about obsolete version ( tested ) and on all lower numbered versions ( vers. 6 , 11 , 15 and 16 were tested ). The Android version number used by the Smartphone can be found within "About" via "Settings". See also https://web.archive.org/web/20251004161259/https://apilevels.com/ or https://apilevels.com/ if available.
-  
-  
+
+The **KangooZE-4.0.5.apk** version is very preliminary and provided upon request. Use it with precaution and report any problems , eventually fall back to version 4.0.4.      
