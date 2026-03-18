@@ -32,6 +32,6 @@ The **KangooZE-4.0.4.apk** installs on Smartphones with Android Version 5 to up 
 
 Version "KangooZE-4.0.4b.apk" is an improved version 4.0.4 and should not display a message about unsafe or obsolete software 
 
-The **KangooZE-4.0.5.apk** version is preliminary and provided upon request. Use it with precaution and report any problems , eventually fall back to version 4.0.4 or 4.0.4b after uninstalling 4.0.5.      
+The **KangooZE-4.0.5.apk** version requests Bluetooth connection permissions on Smartphones running Android 12 and higher. When denied , the application must be removed and re-installed to start working again. In a similar way , the application must be removed and re-installed when rejecting the Disclaimer. Use it with precaution and report any problems , eventually fall back to version 4.0.4 or 4.0.4b after removing 4.0.5.      
 
 Installing one of these versions may require that you uninstall/remove any previous version. 
