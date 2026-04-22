@@ -30,7 +30,7 @@ The application was developed with Android Studio and tested using the KONNWEI K
 
 The **KangooZE-4.0.4.apk** installs on Smartphones with Android Version 5 to up to inclusive Version 16 and on all lower numbered versions ( vers. 6 , 11 , 15 and 16 were tested ). The Android version number used by the Smartphone can be found within "About" via "Settings". See also https://web.archive.org/web/20251004161259/https://apilevels.com/ or https://apilevels.com/ if available.
 
-Version "KangooZE-4.0.4b.apk" is an improved version 4.0.4 and should not display a message about unsafe or obsolete software 
+Version **KangooZE-4.0.4b.apk** is an improved version 4.0.4 and should not display a message about unsafe or obsolete software. This version contains code changes and features that were implemented in version "KangooZE-4.0.5.apk".
 
 The **KangooZE-4.0.5.apk** version requests Bluetooth connection permissions on Smartphones running Android 12 and higher. When denied , the application must be removed and re-installed to start working again. In a similar way , the application must be removed and re-installed when rejecting the Disclaimer. Use it with precaution and report any problems , eventually fall back to version 4.0.4 or 4.0.4b after removing 4.0.5.      
 
